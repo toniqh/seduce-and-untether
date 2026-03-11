@@ -3,7 +3,7 @@
 
 > *"The most dangerous game is the one played with the heart."*
 
-A social strategy card game for **2–5 players** played over **8 rounds** on one shared device. Players use Seduction cards to place Tether tokens on each other — accumulating Influence — while Untether and Special cards help break free, expose secrets, or reshape the board entirely. The tension isn't moral. It's social. Who has power over whom, and what are you willing to do about it.
+Seduce & Untether is a social strategy card game for **2–5 players** played over **8 rounds** on one shared device. Players use Seduction cards to place Tether tokens on each other — accumulating Influence — while Untether and Special cards help break free, expose secrets, or reshape the board entirely. The tension isn't moral. It's social. Who has power over whom, and what are you willing to do about it.
 
 The game rewards reading people more than playing optimally. Every player carries a secret **Vulnerability Trait** that changes how cards land on them. Learning those weaknesses is where the real game lives.
 
